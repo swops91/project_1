@@ -1,0 +1,21 @@
+table {
+    border: 2px solid black;
+    border-collapse: separate;
+    border-spacing: 15px;
+    background-color: blueviolet;
+    empty-cells: hide;
+}
+th {
+    border: 1px solid burlywood;
+    padding: 5px;
+}
+td {
+    border: 1px solid burlywood;
+    padding: 5px;
+}
+#test {
+    width: 30vw;
+    height: 30vh;
+    text-align: center;
+    background-color: aqua;
+}
